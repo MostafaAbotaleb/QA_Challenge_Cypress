@@ -1,0 +1,5 @@
+{
+  "baseUrl": "https://sprintboards.io/auth/login",
+  "timeout": "30000",
+  "projectId": "41uvvs"
+}
