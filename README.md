@@ -34,6 +34,6 @@
 * 1.login to the account on the dashboard through Google or Github account
 * 2.projectId (41uvvss) will created automatic in cypress.json file in the project, and keep the command with the key
 * 3.Write the command with the key in the terminal (npx cypress run --record --key a8ede358-98b4-4a2e-a4e5-eaa53e675a67) then enter okay
-* 4.getting the link of the report of Test case in the terminal or open Runs in the dashboard and find the report.
+* 4.getting the link of the report of Test case in the terminal or open Runs in the dashboard and find the report okay.
      
      
